@@ -87,12 +87,14 @@ npx hardhat run scripts/swap.js --network sepolia
 
 ## Enviroment variables (.env)
 
+```bash
 INFURA_URL=<your-infura-sepolia-url>
 MNEMONIC=<your-mnemonic-12-words>
 ETHERSCAN_API_KEY=<your-etherscan-api-key>
 FINKI_ADDRESS=<deployed-finki-coin-address>
 PRIVATE_KEY_1=<first-metamask-private-key>
 PRIVATE_KEY_2=<second-metamask-private-key>
+```
 
 ---
 
